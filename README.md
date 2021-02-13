@@ -8,4 +8,4 @@ Hello! I'm a student in the Telling Stories with Data course. My name is Kyra Ma
 While I do have experience as a Data Analyst, the insights division was a newer department at my company and thus lacked a lot of best practices when visualizing our data. Since we were mainly self-taught, I want to learn the proper way to think about data visualization and storytelling. I also hope to gain important perspective for my industry, since many going into entertainment don't tend to have an analytical or data-driven background, despite data being a vital part of decision-making for entertainment. 
 
 # Portfolio
-Future visualizations will appear here! 
+[Visualizing Government Debt](/vizworkshop1.md)
