@@ -19,3 +19,5 @@ I will primarily be using data from [this dataset](https://github.com/taubergm/B
 
 ## Method and Medium
 My first step is to finish collecting and scrubbing the data that I need. I intend to use the Shorthand platform to build my story. I'll also look to other music data stories such as those on [pudding.cool](https://pudding.cool) for inspiration and reference. 
+
+[Return to Homepage](https://kyramanlove.github.io/tsdwportfolio/)
