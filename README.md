@@ -11,3 +11,5 @@ While I do have experience as a Data Analyst, the insights division was a newer 
 [Visualizing Government Debt](/vizworkshop1.md)
 
 [Final Project - Part 1](/kmanlovefinal.md)
+
+[Critique by Design](/critiquebydesign.md)
