@@ -17,14 +17,23 @@ When I showed my wireframe to a couple people for feedback, they agreed with my 
 ## The Final Visualization
 My final visualization is two pie charts that display the proportion of spending in each category of the two proposed plans. This better highlights the differences in where the money is going and does not misrepresent the data by using a per-person amount. The chart is interactive and hovering displays a tooltip that has the dollar amount, so that information is not lost. I chose to represent the Biden pie as larger than the GOP pie to reflect that the overall amount proposed is larger. This helps to focus in better on understand where the money is going because you can more easily compare across categories and see their overall priorities. I am not entirely sure about the color scheme I chose in the end as it may be too rainbow and busy. However, in keeping with the initial graphic and the article, it doesn't seem like they intend to callout specific categories, they're all equally important, so I used a full color scale.
 
-<script src="https://public.tableau.com/javascripts/api/tableau-2.7.0.min.js"></script>
-<div id="vizContainer"></div>
-function initViz() {
-    var containerDiv = document.getElementById("vizContainer"),
-    url = "https://public.tableau.com/views/CritiquebyDesignCovidRelief/Dashboard1?:language=en&:retry=yes&:display_count=y&publish=yes&:origin=viz_share_link";
+<script type="text/javascript"
+	    src="https://public.tableau.com/javascripts/api/tableau-2.7.0.min.js"></script>
+    <script type="text/javascript">
+        function initViz() {
+            var containerDiv = document.getElementById("vizContainer"),
+                url = "http://public.tableau.com/views/RegionalSampleWorkbook/Storms",
+                options = {
+                    hideTabs: true,
+                    onFirstInteractive: function () {
+                        console.log("Run this code when the viz has finished loading.");
+                    }
+                };
 
-    var viz = new tableau.Viz(containerDiv, url);
-}
+            var viz = new tableau.Viz(containerDiv, url, options);
+            // Create a viz object and embed it in the container div.
+        }
+    </script>
 
 [Link to Tableau Public page](https://public.tableau.com/views/CritiquebyDesignCovidRelief/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 
