@@ -32,7 +32,6 @@ Because a song that is 5min long is worth the same as 2min long, we've seen a sh
 We can also see this trend across albums as well. 
 * Refer to Quartz illustration 
 
-
 We are no longer constrained by physical limitations, so albums may get longer and longer just stuffed with shorter tracks. Point to Drake playlist example. 
 * Visualization of time limit for physical formats (vinyl, cassette, CD vs. unlimited for digital) 
 
@@ -50,7 +49,12 @@ Offer resources for additional reading such as NYT, Switched on Pop, other data 
 ## User Research Protocol 
 
 ### Interview Questions
-
+1. Was this clear and easy to understand?
+2. Did you feel engaged?
+3. Did the use of data and visualizations support the presentation?
+4. Do you understand what each graph is trying to convey?
+5. Is there a clear call to action or next step?
+6. Is there anything else you would've liked tl ear
 
 ### Interviewees 
 One aspiring music professional
