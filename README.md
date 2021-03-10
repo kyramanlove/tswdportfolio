@@ -10,6 +10,8 @@ While I do have experience as a Data Analyst, the insights division was a newer 
 ## Portfolio
 [Visualizing Government Debt](/vizworkshop1.md)
 
-[Final Project - Part 1](/kmanlovefinal.md)
+[Final Project - Part 1](/kmanlovefinalptI.md)
 
 [Critique by Design](/critiquebydesign.md)
+
+[Final Project - Part 2](/kmanlovefinalptII.md)
