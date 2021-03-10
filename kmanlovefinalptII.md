@@ -47,3 +47,14 @@ As a casual music listener or buyer, if you want to support your favorite artist
 
 Offer resources for additional reading such as NYT, Switched on Pop, other data idk. 
 
+## User Research Protocol 
+
+### Interview Questions
+
+
+### Interviewees 
+One aspiring music professional
+One casual music streamer 
+One casual music streamer and vinyl buyer 
+
+### Changes and Quotes
