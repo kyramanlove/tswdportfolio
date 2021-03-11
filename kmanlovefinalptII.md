@@ -9,8 +9,8 @@ Technology has disrupted the entertainment industry in many ways. We have endles
 The paid subscription model of streaming began rising to prominence in the mid-2000s, with Spotify debuting in 2008. This format now generates the majority share of revenue in the recorded music industry. 
 Visualization here is a stacked bar chart of music industry revenues by format. I'm having trouble getting the data to download on this but it's coming from this dashboard from the RIAA embedded below. I will simplify the categories (vinyl, cassette, CD, digital sale, streaming) in my analysis. 
 
-<iframe
-src="https://public.tableau.com/views/U_S_RecordedMusicRevenuesbyFormat_0/RevenuesbyFormat?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
+<iframe src="https://public.tableau.com/views/U_S_RecordedMusicRevenuesbyFormat_0/RevenuesbyFormat?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
+
 
 And the volume of album sales (both physical and digital) are dropping each year. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5527016"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
