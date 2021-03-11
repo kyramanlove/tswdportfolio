@@ -61,7 +61,7 @@ Additional Reading Links will go here.
 3. Did the use of data and visualizations support the presentation?
 4. Do you understand what each graph is trying to convey?
 5. Is there a clear call to action or next step?
-6. Is there anything else you would've liked tl ear
+6. Is there anything else you would've liked to learn?
 
 ### Interviewees  
 
