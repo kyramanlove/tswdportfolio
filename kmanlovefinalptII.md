@@ -7,9 +7,9 @@ Technology has disrupted the entertainment industry in many ways. We have endles
 
 ### Background
 The paid subscription model of streaming began rising to prominence in the mid-2000s, with Spotify debuting in 2008. This format now generates the majority share of revenue in the recorded music industry. 
-Visualization here is a stacked bar chart of music industry revenues by format. I'm having trouble getting the data to download on this but it's coming from this dashboard from the RIAA embedded below. I will simplify the categories (vinyl, cassette, CD, digital sale, streaming) in my analysis. 
+Visualization here is a stacked bar chart of music industry revenues by format. I'm having trouble getting the data to download on this to create my own visualization at the moment, but it's coming from this dashboard from the RIAA embedded below. I will simplify the categories (vinyl, cassette, CD, digital sale, streaming) in my analysis. 
 
-<iframe src="https://public.tableau.com/views/U_S_RecordedMusicRevenuesbyFormat_0/RevenuesbyFormat?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
+<iframe src="https://public.tableau.com/views/U_S_RecordedMusicRevenuesbyFormat_0/RevenuesbyFormat?:showVizHome=no&:embed=true" width="100%" height="800" seamless frameborder="0" scrolling="yes"></iframe>
 
 
 And the volume of album sales (both physical and digital) are dropping each year. 
@@ -30,9 +30,11 @@ And so, this new model of monetization has resulted in some interesting trends i
 
 We will be specifically analyzing popular music, defined as songs that have had success on the Billboard Hot 100, to reflect music that is more commercialized. 
 
-Because a song that is 5min long is worth the same as 2min long, we've seen a shift in song length in popular songs. 
+Because a song that is 5min long is worth the same as 2min long, we've seen a shift in the length in popular songs. 
 * Visualization of the average length of a song on the Billboard Hot 100 per calendar year
-* Visualization of the share of songs under 2:30 
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/5527355"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+[Data](https://www.billboard.com/articles/columns/chart-beat/8514407/hot-100-top-10s-30-seconds-shorter-2019)
 
 We can also see this trend across albums as well. 
 * Refer to Quartz illustration 
