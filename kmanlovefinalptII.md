@@ -7,7 +7,10 @@ Technology has disrupted the entertainment industry in many ways. We have endles
 
 ### Background
 The paid subscription model of streaming began rising to prominence in the mid-2000s, with Spotify debuting in 2008. This format now generates the majority share of revenue in the recorded music industry. 
-* Visualization here is a stacked bar chart of music industry revenues by format. 
+Visualization here is a stacked bar chart of music industry revenues by format. I'm having trouble getting the data to download on this but it's coming from this dashboard from the RIAA embedded below. I will simplify the categories (vinyl, cassette, CD, digital sale, streaming) in my analysis. 
+
+<ifrrame
+src="https://public.tableau.com/views/U_S_RecordedMusicRevenuesbyFormat_0/RevenuesbyFormat?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
 
 And the volume of album sales (both physical and digital) are dropping each year. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5527016"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
@@ -20,7 +23,7 @@ While paid subscription continues to grow.
 With this major shift from a sales-based model to a subscription-based model, the way musicians are able to make money off their songs has changed. Spotify [counts a stream](https://artists.spotify.com/faq/stats#how-are-streams-counted) when a listener plays a song for more than 30 seconds. When a stream is counted, the artist makes money. Because of this monetization system, this means that a 5-minute long song is worth the same amount as a 2-minute long song.  
 ![Song Length is irrelevant to streaming revenue](song length.png) 
 
-Streaming is less profitable too. (Need to find a good dataset for this. Essenitally, the profits are so small that volume really matters here). 
+Despite the rising streaming revenues and subscriber growth, this new model is less profitable for the end artist. [Sources Estimate](https://www.businessinsider.com/how-much-does-spotify-pay-per-stream) that Spotify pays between $0.003 and $0.005 per stream, so it takes about 250 streams to make a dollar. Furthermore, Spotify takes about a 30% royalty, and after that the publisher, label, agents all take a cut before it reaches the artist. 
 
 ### Trends
 And so, this new model of monetization has resulted in some interesting trends in the industry. 
