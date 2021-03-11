@@ -9,14 +9,16 @@ Technology has disrupted the entertainment industry in many ways. We have endles
 The paid subscription model of streaming began rising to prominence in the mid-2000s, with Spotify debuting in 2008. This format now generates the majority share of revenue in the recorded music industry. 
 * Visualization here is a stacked bar chart of music industry revenues by format. 
 
-And the volume physical and digital sales are dropping each year. 
-* Visualization; line chart of sales since 2008 (Spotify invented) 
+And the volume of album sales (both physical and digital) are dropping each year. 
+<div class="flourish-embed flourish-chart" data-src="visualisation/5527016"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+[Data](https://www-statista-com.cmu.idm.oclc.org/statistics/273308/music-album-sales-in-the-us/)
 
 While paid subscription continues to grow. 
-* Visualization; line chart of subscription growth for Spotify and Apple Music (leading two services). 
+<div class="flourish-embed flourish-chart" data-src="visualisation/5527090"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+[Data](https://www-statista-com.cmu.idm.oclc.org/statistics/293749/spotify-pandora-number-active-users/)
 
-With this major trend from a sales-based model to a subscription-based model, the way musicians are able to make money off their songs has changed. Explain here that 30s counts as a listen. 
-* Visualization here. This will be a horizontal bar graph with 5-7 popular songs listed on the y-axis of varying length. The x-axis will be time in seconds. Then there will be a line highlighting the 30s mark and noting that that is $$$. So in other words, a 5min song makes the same about of money as a 2min song. 
+With this major shift from a sales-based model to a subscription-based model, the way musicians are able to make money off their songs has changed. Spotify [counts a stream](https://artists.spotify.com/faq/stats#how-are-streams-counted) when a listener plays a song for more than 30 seconds. When a stream is counted, the artist makes money. Because of this monetization system, this means that a 5-minute long song is worth the same amount as a 2-minute long song.  
+![Song Length is irrelevant to streaming revenue](song length.png) 
 
 Streaming is less profitable too. (Need to find a good dataset for this. Essenitally, the profits are so small that volume really matters here). 
 
@@ -62,3 +64,8 @@ One casual music streamer
 One casual music streamer and vinyl buyer 
 
 ### Changes and Quotes
+
+### Class Feedback
+* Use a stacked area chart for share of songs under 2:30, and divide into <2:30, 2:30-4:00, >4:00 
+* Really love the album length visualizations 
+* Add depth to why artists are pursuing monetization on Spotify so heavily - it's because the profits are small. This will link it to a better call to action because then it can be how to best support your favorite artists. 
