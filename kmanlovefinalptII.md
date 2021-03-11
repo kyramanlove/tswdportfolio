@@ -64,10 +64,10 @@ Additional Reading Links will go here.
 6. Is there anything else you would've liked to learn?
 
 ### Interviewees  
-I interviewed a mix of casual music fans and aspiring music professionals to capture both your average listener and your insider with industry expertise. 
+I interviewed a mix of casual music fans and aspiring music professionals to capture both your average listener and your insider with industry expertise. Some of them are heavy streamers, others still purchase vinyls. 
 
 ### Changes and Quotes
-In general, everyone found the story clear and logical to understand! Feedback mainly pertained to ways to make the visualizations clearer, since the story and topic came across really well. 
+In general, everyone found the story clear and logical to understand! Feedback mainly pertained to ways to make the visualizations clearer, since the story and topic came across really well. Below I have listed some quotes, and some actionable steps from those quotes. 
 
 * "I had a hard time with the Apple and Spotify increase because I wasn't sure which was which between the blue and green lines." *Actionable Rec: Label lines.*
 * "I loved the first chart where I could interact with the data." *Actionable Rec: When recreating the RIAA chart, allow for lots of user interaction still.* 
@@ -76,6 +76,9 @@ In general, everyone found the story clear and logical to understand! Feedback m
 * "The Drake one was unclear at first but then I realized that the squares were songs and the whole thing was an album." *Add some additional context to chart. *
 * "The CTA is for artists to maximize their profits by producing more shorter songs, and for the listeners to realize how much of the song they listen to actually contributes to profit and support their faves in other ways like merch and concerts."
 * "I wonder if there are other platforms that support my favorite artists better but still allow me to have the convenience of streaming?" *I'm fairly certain Bandcamp is a pioneer in this realm. I can add links to articles about that and suggest streaming on Bandcamp. *
+* "You have this text: "While paid subscription continues to grow." First I thought the graph of streaming services was going to show the cost of streaming services increasing." *Actionable Rec: Change the title of this to clarify that paid subscription services are growing in users* 
+* "On the songs under 3 minutes one, I don't know if that's the best graph to show the information. I had to give it a second look to understand that there was an over 3:00 line, I guess it is because it's a straight line at the top. Maybe stacked bars help convey the growth better." *Actionable Rec: Change from stacked area to stacked bars* 
+* "I think your story is really clear. When I had a question, you gave me the answer in one of the next sections." 
 
 ### Class Feedback
 * Use a stacked area chart for share of songs under 2:30, and divide into <2:30, 2:30-4:00, >4:00 
