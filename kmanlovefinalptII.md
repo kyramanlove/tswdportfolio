@@ -31,27 +31,27 @@ And so, this new model of monetization has resulted in some interesting trends i
 We will be specifically analyzing popular music, defined as songs that have had success on the Billboard Hot 100, to reflect music that is more commercialized. 
 
 Because a song that is 5min long is worth the same as 2min long, we've seen a shift in the length in popular songs. 
-* Visualization of the average length of a song on the Billboard Hot 100 per calendar year
+(currently working to recreate this first chart)
+![Average Song Duration](avg song duration.png)
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5527355"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 [Data](https://www.billboard.com/articles/columns/chart-beat/8514407/hot-100-top-10s-30-seconds-shorter-2019)
 
-We can also see this trend across albums as well. 
-* Refer to Quartz illustration 
+We can also see this trend across albums as well. I will be recreating this infographic (with a few updates, to include album year and average track length). 
+![Drake](drake.png)
 
-We are no longer constrained by physical limitations, so albums may get longer and longer just stuffed with shorter tracks. Point to Drake playlist example. 
-* Visualization of time limit for physical formats (vinyl, cassette, CD vs. unlimited for digital) 
+We are no longer constrained by physical limitations, so albums may get longer and longer just stuffed with shorter tracks. 
+Visualization of time limit for physical formats (vinyl, cassette, CD vs. unlimited for digital) 
+![Music Format](format.png)
 
-We can even see this trend in song structure, where popular songs disrupt the intro-verse-chorus-verse-chorus-bridge-chorus format to begin with a chorus to hook listeners quicker in those first 30s. 
-
-Trend is likely to continue, with the impact of Tik Tok and videos being constrained to one minute. (Find something to illustarte how Tik Tok has impacted the Hot 100? Idk) 
+Trend is likely to continue, with the impact of Tik Tok and videos being constrained to one minute.
 
 ### CTA 
-As a music industry professional, it's all about earworms and hooks and brevity. 
+As a music industry professional, it's all about earworms and hooks and brevity to monetize.  
 
 As a casual music listener or buyer, if you want to support your favorite artists listen to all their songs for 30s at a time lol. Or in addition to your streaming consumption, which doesn't bring in that much money, support with merchandise and concert tickets. 
 
-Offer resources for additional reading such as NYT, Switched on Pop, other data idk. 
+Additional Reading Links will go here. 
 
 ## User Research Protocol 
 
@@ -63,10 +63,7 @@ Offer resources for additional reading such as NYT, Switched on Pop, other data 
 5. Is there a clear call to action or next step?
 6. Is there anything else you would've liked tl ear
 
-### Interviewees 
-One aspiring music professional
-One casual music streamer 
-One casual music streamer and vinyl buyer 
+### Interviewees  
 
 ### Changes and Quotes
 
