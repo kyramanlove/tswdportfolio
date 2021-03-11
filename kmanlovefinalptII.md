@@ -69,13 +69,13 @@ I interviewed a mix of casual music fans and aspiring music professionals to cap
 ### Changes and Quotes
 In general, everyone found the story clear and logical to understand! Feedback mainly pertained to ways to make the visualizations clearer, since the story and topic came across really well. 
 
-* "I had a hard time with the Apple and Spotify increase because I wasn't sure which was which between the blue and green lines." *Actionable Rec: Label lines.
-* "I loved the first chart where I could interact with the data." *Actionable Rec: When recreating the RIAA chart, allow for lots of user interaction still. 
-* "I liked that you used one artist as an example to exemplify the trend." *Actionable Rec: The Drake chart was effective, and I could probably add one more example as well. 
-* "I think the trend chart (for the average song duration) can use a different color than black for trend line, and maybe don't have all the gridlines." *Actionable Rec: Introduce color into that chart, add a callout for the debut of Spotify in 2008, remove gridlines. 
-* "The Drake one was unclear at first but then I realized that the squares were songs and the whole thing was an album." *Add some additional context to chart. 
+* "I had a hard time with the Apple and Spotify increase because I wasn't sure which was which between the blue and green lines." *Actionable Rec: Label lines.*
+* "I loved the first chart where I could interact with the data." *Actionable Rec: When recreating the RIAA chart, allow for lots of user interaction still.* 
+* "I liked that you used one artist as an example to exemplify the trend." *Actionable Rec: The Drake chart was effective, and I could probably add one more example as well.*
+* "I think the trend chart (for the average song duration) can use a different color than black for trend line, and maybe don't have all the gridlines." *Actionable Rec: Introduce color into that chart, add a callout for the debut of Spotify in 2008, remove gridlines.*
+* "The Drake one was unclear at first but then I realized that the squares were songs and the whole thing was an album." *Add some additional context to chart. *
 * "The CTA is for artists to maximize their profits by producing more shorter songs, and for the listeners to realize how much of the song they listen to actually contributes to profit and support their faves in other ways like merch and concerts."
-* "I wonder if there are other platforms that support my favorite artists better but still allow me to have the convenience of streaming?" *I'm fairly certain Bandcamp is a pioneer in this realm. I can add links to articles about that and suggest streaming on Bandcamp. 
+* "I wonder if there are other platforms that support my favorite artists better but still allow me to have the convenience of streaming?" *I'm fairly certain Bandcamp is a pioneer in this realm. I can add links to articles about that and suggest streaming on Bandcamp. *
 
 ### Class Feedback
 * Use a stacked area chart for share of songs under 2:30, and divide into <2:30, 2:30-4:00, >4:00 
