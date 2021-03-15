@@ -84,3 +84,7 @@ In general, everyone found the story clear and logical to understand! Feedback m
 * Use a stacked area chart for share of songs under 2:30, and divide into <2:30, 2:30-4:00, >4:00 
 * Really love the album length visualizations 
 * Add depth to why artists are pursuing monetization on Spotify so heavily - it's because the profits are small. This will link it to a better call to action because then it can be how to best support your favorite artists. 
+
+[Return to Homepage](/readme.md)
+[View Part I](/kmanlovefinalptI.md)
+[View Part III](/kmanlovefinalptIII.md)
