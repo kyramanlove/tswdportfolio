@@ -21,6 +21,7 @@ I will primarily be using data from [this dataset](https://github.com/taubergm/B
 My first step is to finish collecting and scrubbing the data that I need. I intend to use the Shorthand platform to build my story. I'll also look to other music data stories such as those on [pudding.cool](https://pudding.cool) for inspiration and reference. For visualizations, I intend to use Tableau. For some of the less data-heavy, more infographic style visualizations, I will likely use Adobe Photoshop, such as an illustration of media song limits as that is few data points, static, and would benefit from being more stylized. 
 
 [Return to Homepage](/README.md)
-[View Part II] (/kmanlovefinalptII.md)
+[View Part II](/kmanlovefinalptII.md) 
+[View Part III](/kmanlovefinalptIII.md)
 
 
