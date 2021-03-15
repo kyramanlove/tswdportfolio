@@ -15,3 +15,5 @@ While I do have experience as a Data Analyst, the insights division was a newer 
 [Critique by Design](/critiquebydesign.md)
 
 [Final Project - Part 2](/kmanlovefinalptII.md)
+
+[Final Project - Part 3](/kmanlovefinalptIII.md)
