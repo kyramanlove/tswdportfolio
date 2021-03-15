@@ -86,5 +86,7 @@ In general, everyone found the story clear and logical to understand! Feedback m
 * Add depth to why artists are pursuing monetization on Spotify so heavily - it's because the profits are small. This will link it to a better call to action because then it can be how to best support your favorite artists. 
 
 [Return to Homepage](/readme.md)
+
 [View Part I](/kmanlovefinalptI.md)
+
 [View Part III](/kmanlovefinalptIII.md)
